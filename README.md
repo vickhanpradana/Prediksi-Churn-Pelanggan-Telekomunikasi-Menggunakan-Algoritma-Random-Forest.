@@ -71,7 +71,7 @@ Sebelum melanjutkan ke tahap modeling, kita akan melakukan eksplorasi data untuk
 - **Distribusi Layanan Internet:** Pengguna layanan internet berbasis *Fiber Optic* memperlihatkan rasio kehilangan pelanggan yang cukup besar.
 - **Distribusi Tenure:** Pelanggan baru dengan nilai *tenure* rendah (di bawah 5 bulan) adalah kelompok yang paling rentan untuk melakukan *churn*.
 
-![churn_distribution_plot](gambar2.png) *(Ganti dengan link gambar chart milikmu)*
+![churn_distribution_plot](gambar1.png) 
 
 ## Data Preparation
 Proses data preparation yang dilakukan pada dataset ini mencakup langkah-langkah berikut:
@@ -98,7 +98,7 @@ Untuk mengevaluasi kinerja model klasifikasi dalam menebak status kepergian pela
 **Hasil Evaluasi**:
 Plot *Confusion Matrix* di bawah menunjukkan hasil pengujian model dalam memetakan tebakan benar dan salah pada data uji sebesar 20%.
 
-![confusion_matrix_plot](https://github.com/user-attachments/assets/c83f8c31-e837-4c44-bed8-ce20ef2c0001) *(Ganti dengan link gambar confusion matrix milikmu)*
+![confusion_matrix_plot](gambar2.png)
 
 - Mayoritas data testing terklasifikasi dengan benar pada kuadran prediksi yang sesuai, membuktikan pohon keputusan dari hutan acak sukses menangkap korelasi pola finansial dan kontrak kerja.
 - Hasil evaluasi numerik menunjukkan bahwa model Random Forest menghasilkan nilai rata-rata tingkat **Akurasi sebesar 0.79 (79%)**, yang mengindikasikan tingkat kesalahan komputasi prediksi yang kecil dan performa model yang mumpuni.
