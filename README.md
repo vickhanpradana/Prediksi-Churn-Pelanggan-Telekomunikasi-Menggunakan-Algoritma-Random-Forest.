@@ -11,7 +11,7 @@ Oleh karena itu, perusahaan telekomunikasi perlu melakukan analisis mendalam ter
 Berdasarkan riset industri properti dan layanan yang menunjukkan bahwa biaya untuk mendapatkan pelanggan baru bisa mencapai 5 kali lipat lebih mahal daripada mempertahankan pelanggan lama, permasalahan kepergian pelanggan (*churn*) ini harus diselesaikan. Perusahaan perlu mengidentifikasi pola tersembunyi yang menyebabkan pelanggan berhenti berlangganan serta membangun sistem otomatis yang dapat memprediksi profil pelanggan mana saja yang berisiko tinggi untuk *churn*.
 
 Format Referensi:Format Referensi: 
-1. ![futureinternet-14-00094](https://www.mdpi.com/1999-5903/14/3/94/pdf?version=1647421730)
+1. [futureinternet-14-00094](https://www.mdpi.com/1999-5903/14/3/94/pdf?version=1647421730)
    
 ## Business Understanding
 
