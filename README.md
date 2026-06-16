@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - [Nama Anda]
+# Prediksi Churn Pelanggan Telekomunikasi Menggunakan Algoritma Random Forest - [vickhan pradana_2330511102 & naji nugraha_2330511105]
 
 ## Domain Proyek
 
