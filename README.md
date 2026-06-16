@@ -11,9 +11,8 @@ Oleh karena itu, perusahaan telekomunikasi perlu melakukan analisis mendalam ter
 Berdasarkan riset industri properti dan layanan yang menunjukkan bahwa biaya untuk mendapatkan pelanggan baru bisa mencapai 5 kali lipat lebih mahal daripada mempertahankan pelanggan lama, permasalahan kepergian pelanggan (*churn*) ini harus diselesaikan. Perusahaan perlu mengidentifikasi pola tersembunyi yang menyebabkan pelanggan berhenti berlangganan serta membangun sistem otomatis yang dapat memprediksi profil pelanggan mana saja yang berisiko tinggi untuk *churn*.
 
 Format Referensi:Format Referensi: 
-1. Pratama, A., & Wijaya, S. (2022). [Penerapan Algoritma Random Forest Untuk Prediksi Churn Pelanggan Telekomunikasi](https://ejournal.itn.ac.id/) - *Jurnal RESTI (Rekayasa Sistem Dan Teknologi Informasi)*.
-2. Ramadhan, F., & Indriani, K. (2023). [Analisis Performa Klasifikasi Random Forest Dalam Mendeteksi Customer Churn](https://jurnal.teknokrat.ac.id/) - *Jurnal Informatika Dan Rekayasa Perangkat Lunak (JATIKA)*.
-
+1. ![futureinternet-14-00094](https://www.mdpi.com/1999-5903/14/3/94/pdf?version=1647421730)
+   
 ## Business Understanding
 
 ### Problem Statements
@@ -84,6 +83,8 @@ Langkah-langkah ini penting untuk menjamin data dalam kondisi siap latih. Mengha
 
 ## Model Development
 Pada bagian ini, saya menggunakan algoritma **Random Forest Classifier** untuk memprediksi label *churn* berdasarkan seluruh fitur demografi, jenis layanan, dan tagihan finansial yang sudah diproses sebelumnya. Algoritma ini memodelkan prediksi klasifikasi berdasarkan kumpulan pohon keputusan (*decision trees*) acak yang bekerja secara kolektif.
+
+[Link hungging face](https://vickhan-proyek-churn-deployment.hf.space)
 
 **Parameter yang Digunakan**:
 - `n_estimators`: 100 (parameter utama) - Menentukan jumlah pohon keputusan independen yang akan dibangun di dalam hutan acak guna mengambil keputusan mayoritas voting.
