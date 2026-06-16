@@ -71,7 +71,7 @@ Sebelum melanjutkan ke tahap modeling, kita akan melakukan eksplorasi data untuk
 - **Distribusi Layanan Internet:** Pengguna layanan internet berbasis *Fiber Optic* memperlihatkan rasio kehilangan pelanggan yang cukup besar.
 - **Distribusi Tenure:** Pelanggan baru dengan nilai *tenure* rendah (di bawah 5 bulan) adalah kelompok yang paling rentan untuk melakukan *churn*.
 
-![churn_distribution_plot](gambar 2.png) *(Ganti dengan link gambar chart milikmu)*
+![churn_distribution_plot](gambar2.png) *(Ganti dengan link gambar chart milikmu)*
 
 ## Data Preparation
 Proses data preparation yang dilakukan pada dataset ini mencakup langkah-langkah berikut:
